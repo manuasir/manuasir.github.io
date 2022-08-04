@@ -1,2 +1,2 @@
-# My personal website
-Terminal-style website inspired by CodeNerve.
+# My personal website and portfolio
+A minimal terminal style website. Reach it here: https://manuasir.com
